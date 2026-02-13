@@ -2,7 +2,7 @@
 
 ## 프로젝트 개요
 퀀트 기반 주식 투자 전략을 과거 데이터로 백테스팅하는 시스템.
-상세 스펙: `spec.md` / 단계별 명령: `command.md`
+Phase 1~5 전체 구현 완료.
 
 ## 기술 스택
 - **Backend**: Python 3.12+, FastAPI, SQLAlchemy 2.0, Alembic, Celery+Redis
@@ -81,22 +81,15 @@ backend/           ← Poetry 프로젝트 루트 (여기서 poetry run 실행)
 
 ## 작업 규칙
 
-### 새 대화에서 이어서 작업할 때
-1. 이 파일의 "구현 진행 상황" 표에서 다음 ⬜ 항목 확인
-2. `command.md`에서 해당 단계 명령 읽기
-3. `spec.md`에서 관련 섹션만 참조 (전체를 다시 읽지 않음)
-4. 구현 → 테스트 → 통과 확인 → 이 파일 상태 업데이트
-
 ### 코딩 컨벤션
 - 포맷: Black (line-length=100), Ruff 린터
 - 테스트: `poetry run pytest` (backend/ 에서 실행)
 - DB 접근: `docker exec docker-db-1 psql -U postgres`
-- 모든 코드는 `spec.md`의 구현 가이드 코드를 기반으로 작성
-- 각 단계 완료 후 반드시 `poetry run pytest`로 전체 테스트 통과 확인
+- 각 변경 후 반드시 `poetry run pytest`로 전체 테스트 통과 확인
 
-### spec 대비 변경사항 (유지해야 함)
-- `pandas-ta`: `^0.3.14b1` → `>=0.4.67b0` (PyPI에 0.3.x 없음)
-- Python: `^3.11` → `^3.12` (pandas-ta가 3.12+ 요구)
+### 주요 기술 결정 사항
+- `pandas-ta`: `>=0.4.67b0` (PyPI에 0.3.x 없음)
+- Python: `^3.12` (pandas-ta가 3.12+ 요구)
 - `pyproject.toml`에 `package-mode = false` (Poetry 2.x)
-- 버전 핀 `^` → `>=` (Python 3.13 호환)
-- Settings의 `class Config` → `model_config = {"env_file": ".env"}` (Pydantic v2)
+- 버전 핀 `>=` 사용 (Python 3.13 호환)
+- Pydantic v2: `model_config = {"env_file": ".env"}` 사용
