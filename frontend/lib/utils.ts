@@ -5,27 +5,31 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
-export function formatPercent(value: number | null | undefined): string {
+export function formatPercent(value: number | string | null | undefined): string {
   if (value == null) return "-";
-  return `${(value * 100).toFixed(2)}%`;
+  const n = Number(value);
+  if (isNaN(n)) return "-";
+  return `${(n * 100).toFixed(2)}%`;
 }
 
 export function formatCurrency(
-  value: number | null | undefined,
+  value: number | string | null | undefined,
   market: "KR" | "US" = "KR"
 ): string {
   if (value == null) return "-";
+  const numValue = Number(value);
+  if (isNaN(numValue)) return "-";
   if (market === "KR") {
     return new Intl.NumberFormat("ko-KR", {
       style: "currency",
       currency: "KRW",
       maximumFractionDigits: 0,
-    }).format(value);
+    }).format(numValue);
   }
   return new Intl.NumberFormat("en-US", {
     style: "currency",
     currency: "USD",
-  }).format(value);
+  }).format(numValue);
 }
 
 export function formatDate(date: string | Date): string {
@@ -36,7 +40,9 @@ export function formatDate(date: string | Date): string {
   });
 }
 
-export function formatNumber(value: number | null | undefined, digits = 2): string {
+export function formatNumber(value: number | string | null | undefined, digits = 2): string {
   if (value == null) return "-";
-  return value.toFixed(digits);
+  const n = Number(value);
+  if (isNaN(n)) return "-";
+  return n.toFixed(digits);
 }

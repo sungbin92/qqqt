@@ -27,6 +27,7 @@ coverage.xml
 # Environment
 .env
 *.env.local
+.kis_token_cache.json
 
 # Node
 node_modules/

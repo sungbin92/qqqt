@@ -144,12 +144,12 @@ export function TradesTable({ trades }: Props) {
                   <td
                     className={cn(
                       "px-3 py-2 text-right",
-                      t.pnl_percent != null && t.pnl_percent >= 0
+                      t.pnl_percent != null && Number(t.pnl_percent) >= 0
                         ? "text-green-600"
                         : "text-red-600"
                     )}
                   >
-                    {t.pnl_percent != null ? `${(t.pnl_percent * 100).toFixed(2)}%` : "-"}
+                    {t.pnl_percent != null ? `${(Number(t.pnl_percent) * 100).toFixed(2)}%` : "-"}
                   </td>
                   <td className="px-3 py-2 text-right">{t.holding_days ?? "-"}</td>
                   <td className="px-3 py-2 text-muted-foreground">{formatDate(t.fill_date)}</td>

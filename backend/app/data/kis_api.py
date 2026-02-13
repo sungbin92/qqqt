@@ -1,7 +1,10 @@
 """한국투자증권 API 클라이언트 (국내 + 미국 주식)"""
 
 import asyncio
+import json
+import os
 from datetime import datetime, timedelta
+from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 import httpx
@@ -45,6 +48,9 @@ MAX_REQUESTS_PER_SECOND = 20
 MAX_RETRIES = 3
 BACKOFF_BASE = 1  # seconds
 
+# 토큰 캐시 파일 경로
+TOKEN_CACHE_FILE = Path(__file__).parent.parent.parent / ".kis_token_cache.json"
+
 
 class KISDataProvider(DataProvider):
     """한국투자증권 API 데이터 프로바이더 (국내 + 미국 주식)"""
@@ -77,12 +83,47 @@ class KISDataProvider(DataProvider):
 
     # ── 토큰 관리 ──
 
+    def _load_cached_token(self) -> bool:
+        """파일에 캐싱된 토큰을 로드한다. 유효하면 True."""
+        try:
+            if not TOKEN_CACHE_FILE.exists():
+                return False
+            cache = json.loads(TOKEN_CACHE_FILE.read_text())
+            expires_at = datetime.fromisoformat(cache["expires_at"])
+            if datetime.now() < expires_at - timedelta(minutes=5):
+                self._access_token = cache["access_token"]
+                self._token_expires_at = expires_at
+                logger.info("캐시된 KIS 토큰 로드 (만료: %s)", expires_at)
+                return True
+        except Exception:
+            pass
+        return False
+
+    def _save_token_cache(self) -> None:
+        """토큰을 파일에 캐싱한다."""
+        try:
+            cache = {
+                "access_token": self._access_token,
+                "expires_at": self._token_expires_at.isoformat(),
+            }
+            TOKEN_CACHE_FILE.write_text(json.dumps(cache))
+            # 파일 권한을 owner만 읽기/쓰기로 제한
+            TOKEN_CACHE_FILE.chmod(0o600)
+        except Exception as e:
+            logger.warning("토큰 캐시 저장 실패: %s", e)
+
     async def _ensure_token(self) -> str:
         """액세스 토큰을 발급하거나, 유효하면 기존 토큰을 반환한다."""
+        # 1) 메모리 캐시 확인
         if self._access_token and self._token_expires_at:
             if datetime.now() < self._token_expires_at - timedelta(minutes=5):
                 return self._access_token
 
+        # 2) 파일 캐시 확인
+        if self._load_cached_token():
+            return self._access_token
+
+        # 3) 새로 발급
         client = await self._get_client()
         body = {
             "grant_type": "client_credentials",
@@ -100,7 +141,10 @@ class KISDataProvider(DataProvider):
         expires_in = int(data.get("expires_in", 86400))
         self._token_expires_at = datetime.now() + timedelta(seconds=expires_in)
 
-        logger.info("KIS API 토큰 발급 완료 (만료: %s)", self._token_expires_at)
+        # 파일에 캐싱
+        self._save_token_cache()
+
+        logger.info("KIS API 토큰 신규 발급 (만료: %s)", self._token_expires_at)
         return self._access_token
 
     def _common_headers(self, token: str, tr_id: str) -> Dict[str, str]:

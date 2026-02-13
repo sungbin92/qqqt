@@ -87,26 +87,29 @@ def run_backtest_task(self, backtest_id: str) -> dict:
             market_config = MARKET_CONFIGS[backtest.market.value]
             trading_days = market_config.trading_days_per_year
 
-            backtest.total_return = PerformanceMetrics.total_return(equity_series)
-            backtest.annual_return = PerformanceMetrics.annual_return(
-                equity_series, trading_days
+            backtest.total_return = float(PerformanceMetrics.total_return(equity_series))
+            backtest.annual_return = float(
+                PerformanceMetrics.annual_return(equity_series, trading_days)
             )
-            backtest.sharpe_ratio = PerformanceMetrics.sharpe_ratio(
-                equity_series, trading_days=trading_days
+            backtest.sharpe_ratio = float(
+                PerformanceMetrics.sharpe_ratio(equity_series, trading_days=trading_days)
             )
-            backtest.sortino_ratio = PerformanceMetrics.sortino_ratio(
-                equity_series, trading_days=trading_days
+            backtest.sortino_ratio = float(
+                PerformanceMetrics.sortino_ratio(equity_series, trading_days=trading_days)
             )
-            backtest.max_drawdown = PerformanceMetrics.max_drawdown(equity_series)
+            backtest.max_drawdown = float(PerformanceMetrics.max_drawdown(equity_series))
 
             # equity_curve_data JSON 저장
             curve_data = []
             for _, row in equity_curve_df.iterrows():
+                ts = row["timestamp"]
+                if hasattr(ts, "isoformat"):
+                    ts_str = ts.isoformat()
+                else:
+                    ts_str = str(ts)
                 curve_data.append(
                     {
-                        "timestamp": row["timestamp"].isoformat()
-                        if isinstance(row["timestamp"], datetime)
-                        else str(row["timestamp"]),
+                        "timestamp": ts_str,
                         "equity": float(row["equity"]),
                         "cash": float(row["cash"]),
                     }
@@ -143,6 +146,15 @@ def run_backtest_task(self, backtest_id: str) -> dict:
         db.close()
 
 
+def _to_python_datetime(val):
+    """pandas Timestamp / numpy datetime64 → Python datetime"""
+    if val is None:
+        return None
+    if hasattr(val, "to_pydatetime"):
+        return val.to_pydatetime()
+    return val
+
+
 def _save_trades(db, backtest: Backtest, engine_trades: list) -> None:
     """엔진 trades를 DB Trade 레코드로 변환·저장"""
     from app.engine.order import OrderSide as EngineOrderSide
@@ -156,12 +168,12 @@ def _save_trades(db, backtest: Backtest, engine_trades: list) -> None:
                 backtest_id=backtest.id,
                 symbol=filled.symbol,
                 side="BUY",
-                quantity=filled.quantity,
-                signal_price=filled.signal_price,
-                signal_date=filled.signal_date,
-                fill_price=filled.fill_price,
-                fill_date=filled.fill_date,
-                commission=filled.commission,
+                quantity=int(filled.quantity),
+                signal_price=float(filled.signal_price),
+                signal_date=_to_python_datetime(filled.signal_date),
+                fill_price=float(filled.fill_price),
+                fill_date=_to_python_datetime(filled.fill_date),
+                commission=float(filled.commission),
             )
             db.add(trade)
             db.flush()
@@ -170,10 +182,10 @@ def _save_trades(db, backtest: Backtest, engine_trades: list) -> None:
         elif filled.side == EngineOrderSide.SELL:
             buy_trade = open_positions.pop(filled.symbol, None)
             if buy_trade:
-                buy_trade.exit_signal_price = filled.signal_price
-                buy_trade.exit_fill_price = filled.fill_price
-                buy_trade.exit_date = filled.fill_date
-                buy_trade.exit_commission = filled.commission
+                buy_trade.exit_signal_price = float(filled.signal_price)
+                buy_trade.exit_fill_price = float(filled.fill_price)
+                buy_trade.exit_date = _to_python_datetime(filled.fill_date)
+                buy_trade.exit_commission = float(filled.commission)
                 # PnL 계산
                 buy_cost = float(buy_trade.fill_price) * buy_trade.quantity + float(
                     buy_trade.commission
@@ -181,11 +193,11 @@ def _save_trades(db, backtest: Backtest, engine_trades: list) -> None:
                 sell_revenue = (
                     float(filled.fill_price) * filled.quantity - float(filled.commission)
                 )
-                buy_trade.pnl = sell_revenue - buy_cost
-                buy_trade.pnl_percent = buy_trade.pnl / buy_cost if buy_cost > 0 else 0
+                buy_trade.pnl = float(sell_revenue - buy_cost)
+                buy_trade.pnl_percent = float(buy_trade.pnl / buy_cost) if buy_cost > 0 else 0.0
                 # 보유일수
                 if buy_trade.fill_date and filled.fill_date:
-                    delta = filled.fill_date - buy_trade.fill_date
+                    delta = _to_python_datetime(filled.fill_date) - buy_trade.fill_date
                     buy_trade.holding_days = delta.days
             else:
                 # 매수 없이 매도만 있는 경우 (비정상)
@@ -193,12 +205,12 @@ def _save_trades(db, backtest: Backtest, engine_trades: list) -> None:
                     backtest_id=backtest.id,
                     symbol=filled.symbol,
                     side="SELL",
-                    quantity=filled.quantity,
-                    signal_price=filled.signal_price,
-                    signal_date=filled.signal_date,
-                    fill_price=filled.fill_price,
-                    fill_date=filled.fill_date,
-                    commission=filled.commission,
+                    quantity=int(filled.quantity),
+                    signal_price=float(filled.signal_price),
+                    signal_date=_to_python_datetime(filled.signal_date),
+                    fill_price=float(filled.fill_price),
+                    fill_date=_to_python_datetime(filled.fill_date),
+                    commission=float(filled.commission),
                 )
                 db.add(trade)
 
@@ -214,10 +226,10 @@ def _calculate_trade_metrics(backtest: Backtest, trade_records: list) -> None:
         return
 
     pnls = pd.DataFrame([{"pnl": float(t.pnl)} for t in closed])
-    backtest.win_rate = PerformanceMetrics.win_rate(pnls)
-    backtest.profit_factor = PerformanceMetrics.profit_factor(pnls)
-    backtest.max_consecutive_wins = PerformanceMetrics.max_consecutive(pnls, win=True)
-    backtest.max_consecutive_losses = PerformanceMetrics.max_consecutive(pnls, win=False)
+    backtest.win_rate = float(PerformanceMetrics.win_rate(pnls))
+    backtest.profit_factor = float(PerformanceMetrics.profit_factor(pnls))
+    backtest.max_consecutive_wins = int(PerformanceMetrics.max_consecutive(pnls, win=True))
+    backtest.max_consecutive_losses = int(PerformanceMetrics.max_consecutive(pnls, win=False))
 
     wins = [float(t.pnl) for t in closed if float(t.pnl) > 0]
     losses = [float(t.pnl) for t in closed if float(t.pnl) <= 0]

@@ -68,7 +68,20 @@ export async function listBacktests(
 }
 
 export async function getBacktest(id: string): Promise<BacktestDetail> {
-  return request<BacktestDetail>(`/api/backtest/${id}`);
+  const raw = await request<any>(`/api/backtest/${id}`);
+
+  // API의 equity_curve_data ({timestamp, equity, cash}) → 프론트 타입 ({date, equity, drawdown})
+  if (raw.equity_curve_data && raw.equity_curve_data.length > 0) {
+    let peak = Number(raw.equity_curve_data[0].equity);
+    raw.equity_curve_data = raw.equity_curve_data.map((p: any) => {
+      const equity = Number(p.equity);
+      if (equity > peak) peak = equity;
+      const drawdown = peak > 0 ? (equity - peak) / peak : 0;
+      return { date: p.timestamp, equity, drawdown };
+    });
+  }
+
+  return raw as BacktestDetail;
 }
 
 export async function getBacktestStatus(id: string): Promise<JobStatusResponse> {

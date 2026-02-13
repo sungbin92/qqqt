@@ -9,9 +9,9 @@ interface MetricItem {
   color?: "green" | "red" | "default";
 }
 
-function getColor(val: number | null | undefined): "green" | "red" | "default" {
+function getColor(val: number | string | null | undefined): "green" | "red" | "default" {
   if (val == null) return "default";
-  return val >= 0 ? "green" : "red";
+  return Number(val) >= 0 ? "green" : "red";
 }
 
 export function ResultsCard({ data }: { data: BacktestDetail }) {
@@ -22,7 +22,7 @@ export function ResultsCard({ data }: { data: BacktestDetail }) {
     { label: "소르티노 비율", value: formatNumber(data.sortino_ratio), color: getColor(data.sortino_ratio) },
     { label: "MDD", value: formatPercent(data.max_drawdown), color: "red" },
     { label: "승률", value: formatPercent(data.win_rate), color: "default" },
-    { label: "Profit Factor", value: formatNumber(data.profit_factor), color: getColor(data.profit_factor != null ? data.profit_factor - 1 : null) },
+    { label: "Profit Factor", value: formatNumber(data.profit_factor), color: getColor(data.profit_factor != null ? Number(data.profit_factor) - 1 : null) },
     { label: "총 거래 수", value: String(data.total_trades), color: "default" },
     { label: "최대 연속 승", value: String(data.max_consecutive_wins), color: "green" },
     { label: "최대 연속 패", value: String(data.max_consecutive_losses), color: "red" },
