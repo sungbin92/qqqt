@@ -1,7 +1,8 @@
 """backtest 명령어 (run / list / show)"""
 
+import asyncio
 from datetime import datetime
-from typing import Optional
+from typing import Dict, List, Optional
 
 import numpy as np
 import pandas as pd
@@ -16,15 +17,36 @@ from app.db.models import MarketType, TimeframeType
 from app.engine.backtest import BacktestEngine
 from app.engine.broker import Broker
 from app.engine.order import FilledOrder, OrderSide
-from app.strategies.mean_reversion import MeanReversionStrategy
+from app.data.cache import CachedDataProvider
+from app.data.kis_api import KISDataProvider
+from app.db.session import SessionLocal
+from app.strategies import STRATEGY_REGISTRY, get_strategy
 from app.utils.exceptions import BacktestError
 
 app = typer.Typer(no_args_is_help=True)
 console = Console()
 
-# 전략 레지스트리 (Phase 2-4에서 확장)
-STRATEGY_REGISTRY = {
-    "MeanReversion": MeanReversionStrategy,
+# 종목 프리셋
+SYMBOL_PRESETS: Dict[str, Dict] = {
+    "kospi10": {
+        "market": "KR",
+        "symbols": [
+            "005930",  # 삼성전자
+            "000660",  # SK하이닉스
+            "373220",  # LG에너지솔루션
+            "207940",  # 삼성바이오로직스
+            "005490",  # POSCO홀딩스
+            "006400",  # 삼성SDI
+            "051910",  # LG화학
+            "003670",  # 포스코퓨처엠
+            "035420",  # NAVER
+            "000270",  # 기아
+        ],
+    },
+    "mag7": {
+        "market": "US",
+        "symbols": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "META", "TSLA"],
+    },
 }
 
 
@@ -62,7 +84,9 @@ def _generate_sample_data(
 @app.command()
 def run(
     strategy: str = typer.Option(..., "--strategy", "-s", help="전략 이름 (예: MeanReversion)"),
-    symbol: str = typer.Option(..., "--symbol", help="종목 코드 (예: 005930)"),
+    symbol: Optional[str] = typer.Option(None, "--symbol", help="종목 코드 (예: 005930)"),
+    symbols: Optional[str] = typer.Option(None, "--symbols", help="쉼표 구분 종목 목록 (예: 005930,000660,373220)"),
+    preset: Optional[str] = typer.Option(None, "--preset", "-p", help="종목 프리셋 (예: kospi10, mag7)"),
     market: str = typer.Option("KR", "--market", "-m", help="시장 (KR/US)"),
     start: str = typer.Option(..., "--start", help="시작일 (YYYY-MM-DD)"),
     end: str = typer.Option(..., "--end", help="종료일 (YYYY-MM-DD)"),
@@ -77,6 +101,40 @@ def run(
         console.print(Panel("[red]시작일이 종료일보다 같거나 늦습니다.[/red]", title="오류"))
         raise typer.Exit(code=1)
 
+    # --symbol, --symbols, --preset 상호 배타 검증
+    opt_count = sum(1 for v in (symbol, symbols, preset) if v is not None)
+    if opt_count == 0:
+        console.print(
+            Panel("[red]--symbol, --symbols, --preset 중 하나를 지정해야 합니다.[/red]", title="오류")
+        )
+        raise typer.Exit(code=1)
+    if opt_count > 1:
+        console.print(
+            Panel("[red]--symbol, --symbols, --preset은 동시에 사용할 수 없습니다.[/red]", title="오류")
+        )
+        raise typer.Exit(code=1)
+
+    # 종목 리스트 및 시장 결정
+    if preset:
+        if preset not in SYMBOL_PRESETS:
+            available = ", ".join(SYMBOL_PRESETS.keys())
+            console.print(
+                Panel(f"[red]프리셋 '{preset}'을 찾을 수 없습니다.\n사용 가능: {available}[/red]", title="오류")
+            )
+            raise typer.Exit(code=1)
+        preset_cfg = SYMBOL_PRESETS[preset]
+        symbol_list: List[str] = preset_cfg["symbols"]
+        market_upper = preset_cfg["market"]
+    elif symbols:
+        symbol_list = [s.strip() for s in symbols.split(",") if s.strip()]
+        if not symbol_list:
+            console.print(Panel("[red]유효한 종목 코드가 없습니다.[/red]", title="오류"))
+            raise typer.Exit(code=1)
+        market_upper = market.upper()
+    else:
+        symbol_list = [symbol]
+        market_upper = market.upper()
+
     if strategy not in STRATEGY_REGISTRY:
         available = ", ".join(STRATEGY_REGISTRY.keys())
         console.print(
@@ -84,27 +142,54 @@ def run(
         )
         raise typer.Exit(code=1)
 
-    market_upper = market.upper()
     if market_upper not in ("KR", "US"):
         console.print(Panel("[red]시장은 KR 또는 US만 지원합니다.[/red]", title="오류"))
         raise typer.Exit(code=1)
 
     tf = TimeframeType.D1 if timeframe == "1d" else TimeframeType.H1
 
+    symbols_display = ", ".join(symbol_list)
     console.print(f"\n[bold cyan]백테스팅 시작[/bold cyan]")
     console.print(f"  전략: {strategy}")
-    console.print(f"  종목: {symbol} ({market_upper})")
+    console.print(f"  종목: {symbols_display} ({market_upper}) [{len(symbol_list)}개]")
+    if preset:
+        console.print(f"  프리셋: {preset}")
     console.print(f"  기간: {start} ~ {end}")
     console.print(f"  자본금: {capital:,.0f}")
     console.print(f"  봉: {timeframe}\n")
 
     try:
-        # 데이터 준비 (현재는 샘플 데이터, 추후 CachedDataProvider 연동)
-        df = _generate_sample_data(symbol, start_dt, end_dt)
-        data = {symbol: df}
+        market_type = MarketType.KR if market_upper == "KR" else MarketType.US
+
+        # DB 캐시에서 데이터 조회 (없으면 KIS API 호출)
+        db = SessionLocal()
+        provider = KISDataProvider()
+        cached = CachedDataProvider(provider, db)
+
+        data = {}
+        with console.status("[bold green]데이터 수집 중..."):
+            for sym in symbol_list:
+                df = asyncio.get_event_loop().run_until_complete(
+                    cached.fetch_ohlcv(sym, market_type, tf, start_dt, end_dt)
+                )
+                if not df.empty:
+                    if "timestamp" in df.columns:
+                        df = df.set_index("timestamp")
+                    data[sym] = df
+                    console.log(f"  {sym}: {len(df)}건 로드")
+                else:
+                    console.log(f"  [yellow]{sym}: 데이터 없음 (건너뜀)[/yellow]")
+            asyncio.get_event_loop().run_until_complete(provider.close())
+            db.close()
+
+        if not data:
+            console.print(Panel("[red]데이터를 수집할 수 없습니다.[/red]", title="오류"))
+            raise typer.Exit(code=1)
+
+        console.print(f"  데이터: {len(data)}개 종목 로드 완료\n")
 
         # 엔진 구성
-        strategy_instance = STRATEGY_REGISTRY[strategy]()
+        strategy_instance = get_strategy(strategy)
         broker = Broker(market=market_upper, timeframe=tf)
 
         with console.status("[bold green]백테스팅 실행 중..."):
