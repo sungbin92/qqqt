@@ -1,0 +1,1336 @@
+2026-02-10 08:57:59 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 08:57:59 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 08:57:59 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 08:57:59 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 08:57:59 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 08:57:59 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 08:58:04 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 08:58:04 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 08:58:04 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 08:58:04 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 08:58:04 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 08:58:04 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:43:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:43:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 09:43:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:43:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 09:43:00 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:43:00 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:46:50 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:46:50 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 09:46:50 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:46:50 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 09:46:50 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:46:50 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:39 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 09:52:45 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 09:52:45 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 09:52:45 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 10:13:51 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:51.962671)
+2026-02-10 10:13:51 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:51.977940)
+2026-02-10 10:13:51 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:51.993295)
+2026-02-10 10:13:52 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:52.018375)
+2026-02-10 10:13:52 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:52.033877)
+2026-02-10 10:13:52 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:52.047735)
+2026-02-10 10:13:52 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 10:13:53 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:53.090335)
+2026-02-10 10:13:53 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 10:13:54 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-10 10:13:56 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:13:56 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:56.183011)
+2026-02-10 10:13:56 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-10 10:13:56 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-10 10:13:56 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:13:56 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:56.208670)
+2026-02-10 10:13:56 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 10:13:56 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:13:56 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:13:56.229451)
+2026-02-10 10:13:56 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:01.938154)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:01.951207)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:01.964591)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:01.978893)
+2026-02-10 10:14:01 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:01.994926)
+2026-02-10 10:14:02 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:02.008135)
+2026-02-10 10:14:02 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 10:14:03 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:03.054124)
+2026-02-10 10:14:03 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 10:14:04 | WARNING  | quant_backtest:_request_with_retry:148 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-10 10:14:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:14:06 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:06.122782)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-10 10:14:06 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-10 10:14:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:14:06 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:06.151630)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 10:14:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 10:14:06 | INFO     | quant_backtest:_ensure_token:90 | KIS API 토큰 발급 완료 (만료: 2026-02-11 10:14:06.180588)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 10:14:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 10:14:06 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 10:14:06 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 10:14:06 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.289939)
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.306419)
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.322662)
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.344249)
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.362749)
+2026-02-10 11:01:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:27.379531)
+2026-02-10 11:01:27 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:28 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:28.399759)
+2026-02-10 11:01:28 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:29 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.441461)
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.464671)
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.482221)
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.497277)
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.512479)
+2026-02-10 11:01:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:31.527257)
+2026-02-10 11:01:31 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-10 11:01:32 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-10 11:01:34 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-10 11:01:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:34.545691)
+2026-02-10 11:01:34 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:35 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:35.589507)
+2026-02-10 11:01:35 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-10 11:01:35 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-10 11:01:35 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:35.618415)
+2026-02-10 11:01:35 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:01:35 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:35.642657)
+2026-02-10 11:01:35 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:01:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:35.663960)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.468914)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.483249)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.500061)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.516749)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.532068)
+2026-02-10 11:01:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:41.546533)
+2026-02-10 11:01:41 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:42.592633)
+2026-02-10 11:01:42 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:43 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.634347)
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.657635)
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.676188)
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.690463)
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.705756)
+2026-02-10 11:01:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:45.718887)
+2026-02-10 11:01:45 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-10 11:01:46 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-10 11:01:48 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-10 11:01:48 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:48.738722)
+2026-02-10 11:01:48 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:01:49 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:49 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:49.797152)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-10 11:01:49 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-10 11:01:49 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:49 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:49.824287)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:01:49 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:01:49 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:49.846156)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:01:49 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:01:49.866148)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 11:01:49 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 11:01:49 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 11:01:49 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-10 11:26:28 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.466713)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.481256)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.495128)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.510553)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.526185)
+2026-02-10 11:26:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:34.541384)
+2026-02-10 11:26:34 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:26:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:35.558884)
+2026-02-10 11:26:35 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:26:36 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.578668)
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.595484)
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.611867)
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.627376)
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.642592)
+2026-02-10 11:26:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:38.656776)
+2026-02-10 11:26:38 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-10 11:26:39 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-10 11:26:41 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-10 11:26:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:41.676604)
+2026-02-10 11:26:41 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-10 11:26:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:26:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:42.717444)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-10 11:26:42 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-10 11:26:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:26:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:42.742740)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:26:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-10 11:26:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:42.764808)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-10 11:26:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-11 11:26:42.784517)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-10 11:26:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-10 11:26:42 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-10 11:26:42 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.769566)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.783431)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.795997)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.810216)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.824513)
+2026-02-11 23:38:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:16.838483)
+2026-02-11 23:38:16 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-11 23:38:17 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:17.870447)
+2026-02-11 23:38:17 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-11 23:38:18 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.910723)
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.932372)
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.950277)
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.965471)
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.979974)
+2026-02-11 23:38:20 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:20.993632)
+2026-02-11 23:38:20 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-11 23:38:21 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-11 23:38:23 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-11 23:38:24 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:24.022324)
+2026-02-11 23:38:24 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-11 23:38:25 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-11 23:38:25 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:25.071241)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-11 23:38:25 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-11 23:38:25 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-11 23:38:25 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:25.099161)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-11 23:38:25 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-11 23:38:25 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:25.122539)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-11 23:38:25 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-12 23:38:25.142043)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-11 23:38:25 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-11 23:38:25 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-11 23:38:25 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.317595)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.331782)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.345450)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.360664)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.375500)
+2026-02-12 10:18:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:23.391208)
+2026-02-12 10:18:23 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:18:24 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:24.429317)
+2026-02-12 10:18:24 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:18:25 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.474785)
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.492329)
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.512849)
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.541543)
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.559675)
+2026-02-12 10:18:27 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:27.575101)
+2026-02-12 10:18:27 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 10:18:28 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 10:18:30 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 10:18:30 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:30.623167)
+2026-02-12 10:18:30 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:18:31 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:18:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:31.670911)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 10:18:31 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 10:18:31 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:18:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:31.702024)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:18:31 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:18:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:31.727790)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:18:31 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:18:31.749528)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:18:31 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 10:18:31 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:18:31 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:57.967488)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:57.981724)
+2026-02-12 10:21:57 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:57.995734)
+2026-02-12 10:21:58 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:58.011675)
+2026-02-12 10:21:58 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:58.026849)
+2026-02-12 10:21:58 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:58.041496)
+2026-02-12 10:21:58 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:21:59 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:21:59.064971)
+2026-02-12 10:21:59 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:22:00 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.102803)
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.124462)
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.144695)
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.161900)
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.177450)
+2026-02-12 10:22:02 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:02.191960)
+2026-02-12 10:22:02 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 10:22:03 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 10:22:05 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 10:22:05 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:05.235429)
+2026-02-12 10:22:05 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:22:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:22:06 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:06.277122)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 10:22:06 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 10:22:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:22:06 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:06.302855)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:22:06 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:22:06 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:06.327268)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:22:06 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:22:06.349782)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:22:06 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 10:22:06 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:22:06 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:27:37 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.171140)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.185276)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.199873)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.215158)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.230352)
+2026-02-12 10:27:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:38.245316)
+2026-02-12 10:27:38 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:27:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:39.290392)
+2026-02-12 10:27:39 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:27:40 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.337830)
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.365238)
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.383989)
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.399807)
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.415162)
+2026-02-12 10:27:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:42.429402)
+2026-02-12 10:27:42 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 10:27:43 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 10:27:45 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 10:27:45 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:45.480995)
+2026-02-12 10:27:45 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:27:46 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:27:46 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:46.535211)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 10:27:46 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 10:27:46 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:27:46 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:46.568479)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:27:46 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:27:46 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:46.594710)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:27:46 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:27:46.617404)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:27:46 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 10:27:46 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:27:46 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.361369)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.375821)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.390077)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.408211)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.429652)
+2026-02-12 10:33:10 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:10.445051)
+2026-02-12 10:33:10 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:33:11 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:11.480695)
+2026-02-12 10:33:11 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:33:12 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.534141)
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.562511)
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.580848)
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.596170)
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.612242)
+2026-02-12 10:33:14 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:14.627589)
+2026-02-12 10:33:14 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 10:33:15 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 10:33:17 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 10:33:17 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:17.647959)
+2026-02-12 10:33:17 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 10:33:18 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:33:18 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:18.692160)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 10:33:18 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 10:33:18 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:33:18 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:18.721251)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:33:18 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 10:33:18 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:18.745802)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 10:33:18 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 10:33:18.768072)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 10:33:18 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 10:33:18 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 10:33:18 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30031주 @ 99.90 (수수료: 450.00)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30031주 @ 97.70 (수수료: 440.10)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31162주 @ 95.62 (수수료: 446.98)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31162주 @ 94.27 (수수료: 440.64)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31437주 @ 94.38 (수수료: 445.04)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31437주 @ 94.83 (수수료: 447.18)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31311주 @ 94.89 (수수료: 445.65)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30266주 @ 99.12 (수수료: 449.99)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30266주 @ 94.77 (수수료: 430.23)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31365주 @ 94.38 (수수료: 444.02)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31365주 @ 94.83 (수수료: 446.15)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31239주 @ 94.89 (수수료: 444.62)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: TEST 29341주 @ 102.24 (수수료: 449.99)
+2026-02-12 21:55:27 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: TEST 29341주 @ 102.32 (수수료: 450.34)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 21:55:33 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.104087)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.118611)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.132235)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.147708)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.164265)
+2026-02-12 21:55:34 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:34.195460)
+2026-02-12 21:55:34 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 21:55:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:35.221283)
+2026-02-12 21:55:35 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 21:55:36 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.243022)
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.259318)
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.275103)
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.289955)
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.304722)
+2026-02-12 21:55:38 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:38.318523)
+2026-02-12 21:55:38 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 21:55:39 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 21:55:41 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 21:55:41 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:41.340998)
+2026-02-12 21:55:41 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 21:55:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 21:55:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:42.368091)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 21:55:42 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 21:55:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 21:55:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:42.397384)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 21:55:42 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 21:55:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:42.421107)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 21:55:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 21:55:42.441901)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 21:55:42 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 21:55:42 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30031주 @ 99.90 (수수료: 450.00)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30031주 @ 97.70 (수수료: 440.10)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31162주 @ 95.62 (수수료: 446.98)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31162주 @ 94.27 (수수료: 440.64)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31437주 @ 94.38 (수수료: 445.04)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31437주 @ 94.83 (수수료: 447.18)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31311주 @ 94.89 (수수료: 445.65)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30266주 @ 99.12 (수수료: 449.99)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30266주 @ 94.77 (수수료: 430.23)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31365주 @ 94.38 (수수료: 444.02)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31365주 @ 94.83 (수수료: 446.15)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31239주 @ 94.89 (수수료: 444.62)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: TEST 29341주 @ 102.24 (수수료: 449.99)
+2026-02-12 21:55:42 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: TEST 29341주 @ 102.32 (수수료: 450.34)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 22:21:34 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.151207)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.166409)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.180043)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.196028)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.211350)
+2026-02-12 22:21:35 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:35.227707)
+2026-02-12 22:21:35 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 22:21:36 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:36.250712)
+2026-02-12 22:21:36 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 22:21:37 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.272918)
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.293025)
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.309868)
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.324905)
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.339748)
+2026-02-12 22:21:39 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:39.353457)
+2026-02-12 22:21:39 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 22:21:40 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 22:21:42 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 22:21:42 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:42.387380)
+2026-02-12 22:21:42 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 22:21:43 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 22:21:43 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:43.419292)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 22:21:43 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 22:21:43 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 22:21:43 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:43.447736)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 22:21:43 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 22:21:43 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:43.471098)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 22:21:43 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 22:21:43.492980)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 22:21:43 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 22:21:43 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30031주 @ 99.90 (수수료: 450.00)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30031주 @ 97.70 (수수료: 440.10)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31162주 @ 95.62 (수수료: 446.98)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31162주 @ 94.27 (수수료: 440.64)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31437주 @ 94.38 (수수료: 445.04)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31437주 @ 94.83 (수수료: 447.18)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31311주 @ 94.89 (수수료: 445.65)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30266주 @ 99.12 (수수료: 449.99)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30266주 @ 94.77 (수수료: 430.23)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31365주 @ 94.38 (수수료: 444.02)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31365주 @ 94.83 (수수료: 446.15)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31239주 @ 94.89 (수수료: 444.62)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: TEST 29341주 @ 102.24 (수수료: 449.99)
+2026-02-12 22:21:43 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: TEST 29341주 @ 102.32 (수수료: 450.34)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 23:54:19 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.361148)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.375726)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.389946)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.405454)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.420174)
+2026-02-12 23:55:00 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:00.434671)
+2026-02-12 23:55:00 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:01 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:01.456198)
+2026-02-12 23:55:01 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:02 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.477895)
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.501214)
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.518956)
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.534520)
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.549183)
+2026-02-12 23:55:04 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:04.562274)
+2026-02-12 23:55:04 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 23:55:05 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 23:55:07 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 23:55:07 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:07.592838)
+2026-02-12 23:55:07 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:08 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:08 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:08.628535)
+2026-02-12 23:55:08 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 23:55:08 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 23:55:08 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:08 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:08.657308)
+2026-02-12 23:55:08 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 23:55:08 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:08 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:08.681900)
+2026-02-12 23:55:08 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 23:55:08 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:08.704361)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 23:55:09 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 23:55:09 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30031주 @ 99.90 (수수료: 450.00)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30031주 @ 97.70 (수수료: 440.10)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31162주 @ 95.62 (수수료: 446.98)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31162주 @ 94.27 (수수료: 440.64)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31437주 @ 94.38 (수수료: 445.04)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31437주 @ 94.83 (수수료: 447.18)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31311주 @ 94.89 (수수료: 445.65)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30266주 @ 99.12 (수수료: 449.99)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30266주 @ 94.77 (수수료: 430.23)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31365주 @ 94.38 (수수료: 444.02)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31365주 @ 94.83 (수수료: 446.15)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31239주 @ 94.89 (수수료: 444.62)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: TEST 29341주 @ 102.24 (수수료: 449.99)
+2026-02-12 23:55:09 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: TEST 29341주 @ 102.32 (수수료: 450.34)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 433주 @ 69269.20 (수수료: 4499.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 433주 @ 69130.80 (수수료: 4490.05)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: AAPL 4주 @ 69269.20 (수수료: 692.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: AAPL 4주 @ 69130.80 (수수료: 691.31)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 45주 @ 66556.49 (수수료: 449.26)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 45주 @ 56912.34 (수수료: 384.16)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54810.71 (수수료: 427.52)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 52주 @ 56200.60 (수수료: 438.36)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 56174.92 (수수료: 429.74)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55216.09 (수수료: 422.40)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:153 | AAPL 매수 수량 0 → 주문 취소
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 66705.26 (수수료: 440.25)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56164.47 (수수료: 370.69)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 52주 @ 54727.83 (수수료: 426.88)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 67693.38 (수수료: 446.78)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 56199.48 (수수료: 370.92)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55152.63 (수수료: 421.92)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 56244.94 (수수료: 430.27)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 51주 @ 55489.02 (수수료: 424.49)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 51주 @ 55543.41 (수수료: 424.91)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 54주 @ 52494.48 (수수료: 425.21)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 54주 @ 53042.01 (수수료: 429.64)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 44주 @ 65005.04 (수수료: 429.03)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 44주 @ 65470.56 (수수료: 432.11)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.722744)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.736136)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.749537)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.764222)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.778498)
+2026-02-12 23:55:15 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:15.792259)
+2026-02-12 23:55:15 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:16 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:16.813367)
+2026-02-12 23:55:16 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:17 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.837519)
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.856368)
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.872209)
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.886657)
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.900981)
+2026-02-12 23:55:19 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:19.914066)
+2026-02-12 23:55:19 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): KIS API 서버 오류: 500
+2026-02-12 23:55:20 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 2/3 (대기 2s): KIS API 서버 오류: 500
+2026-02-12 23:55:22 | WARNING  | quant_backtest:_search_us_symbols:486 | 미국 종목 검색 API 호출 실패, 빈 결과 반환
+2026-02-12 23:55:22 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:22.936168)
+2026-02-12 23:55:22 | WARNING  | quant_backtest:_request_with_retry:161 | KIS API 재시도 1/3 (대기 1s): 한국투자증권 API 호출 제한
+2026-02-12 23:55:23 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:23.966347)
+2026-02-12 23:55:23 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 2건
+2026-02-12 23:55:23 | INFO     | quant_backtest:fetch_ohlcv:58 | 캐시 히트: 005930 KR 1d (2건)
+2026-02-12 23:55:23 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:23 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:23.992459)
+2026-02-12 23:55:23 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 23:55:24 | INFO     | quant_backtest:fetch_ohlcv:64 | 캐시 미스: 005930 KR 1d → API 호출
+2026-02-12 23:55:24 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:24.014603)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_upsert_cache:120 | 캐시 저장 완료: 005930 1건
+2026-02-12 23:55:24 | INFO     | quant_backtest:_ensure_token:103 | KIS API 토큰 발급 완료 (만료: 2026-02-13 23:55:24.033958)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 41주 @ 71571.50 (수수료: 440.16)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 42주 @ 71071.00 (수수료: 447.75)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 42주 @ 71928.00 (수수료: 453.15)
+2026-02-12 23:55:24 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 23:55:24 | WARNING  | quant_backtest:run:61 | 데이터가 2봉 미만이어서 백테스트를 실행할 수 없습니다.
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30031주 @ 99.90 (수수료: 450.00)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30031주 @ 97.70 (수수료: 440.10)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31162주 @ 95.62 (수수료: 446.98)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31162주 @ 94.27 (수수료: 440.64)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31437주 @ 94.38 (수수료: 445.04)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31437주 @ 94.83 (수수료: 447.18)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31311주 @ 94.89 (수수료: 445.65)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 30266주 @ 99.12 (수수료: 449.99)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 30266주 @ 94.77 (수수료: 430.23)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31365주 @ 94.38 (수수료: 444.02)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: 005930 31365주 @ 94.83 (수수료: 446.15)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: 005930 31239주 @ 94.89 (수수료: 444.62)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_buy:180 | 매수 체결: TEST 29341주 @ 102.24 (수수료: 449.99)
+2026-02-12 23:55:24 | INFO     | quant_backtest:_fill_sell:206 | 매도 체결: TEST 29341주 @ 102.32 (수수료: 450.34)
