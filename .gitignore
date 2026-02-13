@@ -48,3 +48,7 @@ poetry.lock
 
 # Ruff
 .ruff_cache/
+
+# Project internal docs
+spec.md
+command.md
