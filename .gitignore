@@ -52,3 +52,4 @@ poetry.lock
 # Project internal docs
 spec.md
 command.md
+CLAUDE.md
